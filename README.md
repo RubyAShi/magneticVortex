@@ -6,4 +6,4 @@
 # function getVortex is adapted from a Matlab code by John R. Kirtley
 # PhysRevLett.92.157006 shows why the exact Fourier term is chosen as well as shows experimental vortex images
 # Sample commands can be found in main.py
-# Example simulation results can be found in the .pdf file
+# Example simulation results can be found in 210818_vortex_code_example.pdf
